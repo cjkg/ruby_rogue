@@ -3,7 +3,7 @@ Gem with utils for roguelike games.
 
 # License
 
-Copyright (c) 2023, Christopher Gibilisco
+Copyright (c) 2023 Christopher Gibilisco
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
